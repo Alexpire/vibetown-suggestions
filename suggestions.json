@@ -2,38 +2,68 @@
   "suggestions": [
     {
       "id": "1",
-      "text": "Make quests harder",
+      "text": "Make quests more challenging",
       "tags": ""
     },
     {
       "id": "2",
-      "text": "Make quests more rewarding",
-      "tags": "pro"
+      "text": "Increase quest rewards",
+      "tags": ""
     },
     {
       "id": "3",
-      "text": "Add new mini game majong",
-      "tags": "com"
+      "text": "Add mahjong mini-game",
+      "tags": ""
     },
     {
       "id": "4",
-      "text": "Make better perfomance",
-      "tags": "hot"
+      "text": "Improve game performance",
+      "tags": "сom"
     },
     {
       "id": "5",
-      "text": "Add night/day visuals",
+      "text": "Add day/night cycle visuals",
       "tags": ""
     },
     {
       "id": "6",
-      "text": "Enchance traffic system",
-      "tags": "hot"
+      "text": "Enhance traffic system",
+      "tags": ""
     },
     {
       "id": "7",
-      "text": "Add education system and how it will enchance citizens",
-      "tags": "hot"
+      "text": "Add education system that improves citizen skills",
+      "tags": ""
+    },
+    {
+      "id": "8",
+      "text": "Enhance guild system with levels, quests, and crests",
+      "tags": ""
+    },
+    {
+      "id": "9",
+      "text": "Add frame effects for avatar customization",
+      "tags": ""
+    },
+    {
+      "id": "10",
+      "text": "Expand fishing system with more fish collections and zones",
+      "tags": ""
+    },
+    {
+      "id": "11",
+      "text": "Add more mini-games - provide feedback on Discord",
+      "tags": ""
+    },
+    {
+      "id": "12",
+      "text": "Add more collectible item rewards",
+      "tags": ""
+    },
+    {
+      "id": "13",
+      "text": "Add more skills to town customization",
+      "tags": ""
     }
   ]
 }

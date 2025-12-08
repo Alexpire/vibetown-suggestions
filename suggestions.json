@@ -22,8 +22,8 @@
     },
     {
       "id": "5",
-      "text": "Add day/night cycle visuals",
-      "tags": ""
+      "text": "Enchance translations to another languages",
+      "tags": "pro"
     },
     {
       "id": "6",
@@ -63,7 +63,22 @@
     {
       "id": "13",
       "text": "Add more skills to town customization",
-      "tags": ""
+      "tags": "com"
+    },
+    {
+      "id": "14",
+      "text": "Add more achievements goals",
+      "tags": "com"
+    },
+    {
+      "id": "15",
+      "text": "Add more interactive activities to city",
+      "tags": "pro"
+    },
+    {
+      "id": "16",
+      "text": "Add puzzle mini game",
+      "tags": "com"
     }
   ]
 }

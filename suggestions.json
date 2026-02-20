@@ -8,7 +8,7 @@
     {
       "id": "2",
       "text": "Increase quest rewards",
-      "tags": ""
+      "tags": "com"
     },
     {
       "id": "3",
@@ -38,12 +38,12 @@
     {
       "id": "8",
       "text": "Enhance guild system with levels, quests, and crests",
-      "tags": ""
+      "tags": "com"
     },
     {
       "id": "9",
       "text": "Add frame effects for avatar customization",
-      "tags": ""
+      "tags": "pro"
     },
     {
       "id": "10",
@@ -58,7 +58,7 @@
     {
       "id": "12",
       "text": "Add more collectible item rewards",
-      "tags": ""
+      "tags": "com"
     },
     {
       "id": "13",
@@ -79,6 +79,16 @@
       "id": "16",
       "text": "Add puzzle mini game",
       "tags": "com"
+    },
+    {
+      "id": "17",
+      "text": "Add more decor buildings",
+      "tags": "hot"
+    },
+    {
+      "id": "18",
+      "text": "Add more residents buildings",
+      "tags": "hot"
     }
   ]
 }
